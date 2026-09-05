@@ -4,8 +4,7 @@
   :author "egao1980"
   :license "MIT"
   :depends-on ("babel" "serdes-protocol")
-  :properties (:cl-repo (:ci ()))
-  :serial t
+:serial t
   :pathname "src"
   :components ((:file "package")
                (:file "conditions")
